@@ -1,2 +1,2 @@
-Initial Commit: An almost working version of Alm_utilWorkLog
+Initial Commit: Introduced Alm_utilInteractor
 
